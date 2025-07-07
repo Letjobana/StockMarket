@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/StockMarket_API/v17
+/.vs
+/StockMarket/.vs/StockMarket
+/StockMarket/StockMarket/obj/Debug/net8.0
+/StockMarket/StockMarket/bin/Debug/net8.0
+/StockMarket/StockMarket/obj
